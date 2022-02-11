@@ -1,0 +1,12 @@
+#11fev2022 p86 Blocks of code
+
+# following line ommited by the author generating error message
+name = input("What's your name ? ")
+if name == 'Mary':
+    print('hello Mary')
+    # following line ommited by the author generating error message
+    password = input('what is the password? ')
+    if password == 'swordfish':
+        print('access granted')
+    else:
+        print('wrong password.')
